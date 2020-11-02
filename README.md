@@ -1,10 +1,8 @@
 # vue-webpack-template
 
-![](https://img.shields.io/badge/license-MIT-0.svg)
-![](https://img.shields.io/badge/download-2M-0.svg)
+
 ![](https://img.shields.io/badge/language-zh-0.svg)
-![](https://img.shields.io/badge/platform-win/mac-0.svg)
-![](https://img.shields.io/badge/node@latest->6.0.0-0.svg)
+
 
 ## 相关文章
 1. [面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)
